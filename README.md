@@ -52,30 +52,6 @@ Weather_Application project utilizes the following technologies and libraries:
 - Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
 - Bootstrap Icons: A library of free, open-source icons for Bootstrap.
 
-## Contributers
-
-<table>
-<tr>
-   <td>
-        <a href="https://github.com/avinashji1302">
-            <img src="https://avatars.githubusercontent.com/u/91355822?v=4" width="100px" alt="Siddhant"/>
-                <br />
-            <b>Avinash Gupta</b>
-        </a>
-    </td>
-
-   <td>
-       <a href="https://github.com/anmol111pal">
-            <img src="https://avatars.githubusercontent.com/u/93645325?v=4" width="100px" alt="Anmol"/>
-                <br />
-            <b>Anmol Pal</b>
-        </a>
-   </td>
- </tr>
-</table>
-
-
-
 ## Contributing
 
 Contributions to Humari Dukaan are welcome! If you would like to contribute to the project, please follow these steps:
@@ -85,7 +61,3 @@ Contributions to Humari Dukaan are welcome! If you would like to contribute to t
 3. Make your changes and commit them to your branch.
 4. Push your changes to your forked repository.
 5. Submit a pull request explaining your changes and their purpose.
-
-## License
-
-The Humari Dukaan project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
